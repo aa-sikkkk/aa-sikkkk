@@ -1,6 +1,6 @@
 ### Hey, I'm AA-SHIK 👋🏽  
 
-I'm passionate about Learning about Android & Web development and crafting digital experiences. 
+I'm passionate about Learning Android & Web development and crafting digital experiences. 
 
  
 ## 📦 Toolbox
