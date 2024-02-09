@@ -5,7 +5,7 @@ I'm passionate about Learning Android & Web development as well as crafting digi
  
 ## 📦 Toolbox
 
-**Development:** `HTML` `CSS` `JavaScript` `JAVA` `Material-UI` 'Python'
+**Development:** `HTML` `CSS` `JavaScript` `JAVA` `Material-UI` `Python`
  
 **Version Control:** `Git` 
 
