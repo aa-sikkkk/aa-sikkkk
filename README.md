@@ -1,3 +1,3 @@
 <p align="center">
-  <strong><font size="+3">Rust / Python / Golang</font></strong>
+  <strong><font size="+3">ML Enthusiast | Freelance Web Developer |📍NP</font></strong>
 </p>
