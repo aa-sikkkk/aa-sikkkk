@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashik Baruwal</h1>
-<h5 align="center">ML Enthusiast |📍NP</h5>
+<h5 align="center">ML Enthusiast |📍Nepal</h5>
 
 I build things, mostly to understand how they work.
 
